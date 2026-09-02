@@ -137,7 +137,7 @@ Through this project, I gained practical understanding of:
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[Rohit Kumar]**
 
 Electrical / Electronics Engineering
 Interested in **Power Electronics, MATLAB/Simulink, Control Systems, and Power Conversion**
